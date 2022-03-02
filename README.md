@@ -8,10 +8,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) GIT Eğitiminde oluşturduğumuz il
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-<br><br>Linux için:
+Linux için:
 
-```cd kodluyoruzilkrepo
-code .```
+```cd kodluyoruzilkrepo code .```
 
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
